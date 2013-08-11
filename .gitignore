@@ -1,3 +1,6 @@
-venv
+/venv
 *.pyc
 .idea
+/build/
+/dist/
+/xdotool.egg-info/
